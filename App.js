@@ -6,7 +6,7 @@ import GoalInput from './components/GoalInput';
 import { connectToDevTools } from 'react-devtools-core';
 
 connectToDevTools({
-  host: '192.168.50.159',
+  host: 'Replace with Ip',
   port: 8097,
 });
 
