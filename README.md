@@ -1,4 +1,4 @@
- Goals<br/>
+ 🎯 Goal Tracker<br/>
 A simple and intuitive React Native app to help users set, track goals.<br/>
 
 🚀 Features<br/>
